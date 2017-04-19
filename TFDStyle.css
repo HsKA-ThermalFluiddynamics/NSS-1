@@ -14,12 +14,12 @@
 }
 
 div.cell { /* set cell width */
-    width: 750px;
+    width: 800px;
 }
 
 div #notebook { /* centre the content */
     background: #fff; /* white background for content */
-    width: 1000px;
+    width: 1100px;
     margin: auto;
     padding-left: 0em;
 }
