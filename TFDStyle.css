@@ -46,7 +46,7 @@ div.cell.code_cell {
 div.text_cell_render{
     font-family: 'Alegreya Sans' sans-serif;
     line-height: 140%;
-    font-size: 125%;
+    font-size: 120%;
     font-weight: 400;
     width:650px;
     margin-left:auto;
@@ -141,6 +141,7 @@ div.text_cell_render{
         color: rgb( 240, 20, 20 )
         }  
 </style>
+/*
 <script>
     MathJax.Hub.Config({
                         TeX: {
@@ -157,3 +158,4 @@ div.text_cell_render{
                 }
         });
 </script>
+ */
