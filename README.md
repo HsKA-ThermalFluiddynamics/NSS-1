@@ -2,11 +2,4 @@
 
 IPython-Notebooks zum 2. Teil der Vorlesung
 
-Prof. Dr.-Ing. Matthias Stripf
-SS 2017
-
-## Numerik
-### Einführung in Python
-### Iterative Verfahren
-### Anfangswertaufgaben
-### Randwertaufgaben
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/hska-thermalfluiddynamics/nss-1)
