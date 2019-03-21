@@ -14,12 +14,12 @@
 }
 
 div.cell { /* set cell width */
-    width: 800px;
+    width: 750px;
 }
 
 div #notebook { /* centre the content */
     background: #fff; /* white background for content */
-    width: 1100px;
+    width: 1000px;
     margin: auto;
     padding-left: 0em;
 }
@@ -139,7 +139,16 @@ div.text_cell_render{
     
     .warning{
         color: rgb( 240, 20, 20 )
-        }  
+        }
+
+    div.highlight {
+        background-color: #fcf2f2;
+        border-color: #dFb5b4;
+        /*border-left: 5px solid #dfb5b4;*/
+        padding-top: 0.5em;
+        padding-bottom: 0.5em
+    }
+
 </style>
 /*
 <script>
